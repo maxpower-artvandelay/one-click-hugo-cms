@@ -5,21 +5,7 @@ image: img/about-jumbotron.jpg
 blurb:
   heading: Why asdfasdfasdfasdfasdfa?
   text: >
-    asdfasdfasdfa;skldfj;aklsdjf;kasjdf;klaj
-
-
-
-    asdfasdfasdfa;skldfj;aklsdjf;kasjdf;klaj
-
-    asdfasdfasdfa;skldfj;aklsdjf;kasjdf;klaj
-
-
-    asdfasdfasdfa;skldfj;aklsdjf;kasjdf;klajasdfasdfasdfa;skldfj;aklsdjf;kasjdf;klajasdfasdfasdfa;skldfj;aklsdjf;kasjdf;klajasdfasdfasdfa;skldfj;aklsdjf;kasjdf;klaj
-
-
-    asdfasdfasdfa;skldfj;aklsdjf;kasjdf;klaj
-
-    asdfasdfasdfa;skldfj;aklsdjf;kasjdf;klajasdfasdfasdfa;skldfj;aklsdjf;kasjdf;klajasdfasdfasdfa;skldfj;aklsdjf;kasjdf;klaj
+    this is a Test!
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
